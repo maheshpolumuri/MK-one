@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NEXUSMALL · simple & friendly shop</title>
+  <title>FORUM_MALL · simple & friendly shop</title>
   <!-- Font Awesome for clean icons (lightweight) -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <style>
@@ -722,7 +722,7 @@
 
     <!-- friendly note -->
     <div class="footer-note">
-      NEXUSMALL · simple & friendly shopping
+      FORUM_MALL · simple & friendly shopping
     </div>
   </div>
 </body>
